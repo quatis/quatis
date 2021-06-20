@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quatis
 - 👀 I’m interested in Web Development and Internet of Things
-- 🌱 I’m currently learning Node.js and MongoDB
+- 🌱 I’m currently learning Node.js, MongoDB and micropython
 - 💞️ I’m looking to collaborate on open source projects that could use my help.
 - 📫 How to reach me: contact@fernandoquatis.tech
 
