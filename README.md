@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Internet of Things
 - 🌱 I’m currently learning Node.js, MongoDB and micropython
 - 💞️ I’m looking to collaborate on open source projects that could use my help.
-- 📫 How to reach me: contact@fernandoquatis.tech
+- 📫 How to reach me: contact@fernandoquatis.email
 
 <!---
 quatis/quatis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
